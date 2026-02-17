@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Tarcísio
 
-<!--
-**Loreto01/Loreto01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação e formado em Ciências Contábeis, em transição para a área de Tecnologia com foco em desenvolvimento Back-end em Java.
 
-Here are some ideas to get you started:
+## Tecnologias
+Java | Python | SQL | Git | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- Sistema de Gerenciamento de Tarefas (Java)
+- Sistema de Controle de Estoque (Python)
+- Dashboard Financeiro (Power BI)
+
+## Objetivo
+Buscando oportunidade de estágio em desenvolvimento Back-end.
+
+LinkedIn: www.linkedin.com/in/tarcisiojoseloretodossantos
